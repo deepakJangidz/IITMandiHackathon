@@ -1,0 +1,5 @@
+data/
+new_data/
+*.mp3
+__pycache__/
+*.__pycache__
